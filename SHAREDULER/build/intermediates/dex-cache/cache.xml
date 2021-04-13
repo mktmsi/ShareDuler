@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/suzu/program/android/SHAREDULER/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e4f21b9922573323a05bd467a0cd6948f0f41524">
+        <dex dex="/home/suzu/program/android/SHAREDULER/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4322050015feaaddf6bd49d6dcbab02aca0ed03c/classes.dex" />
+    </item>
+
+</items>
